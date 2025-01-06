@@ -1,7 +1,7 @@
 About pyswagger-feedstock
 =========================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyswagger-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tmp9pcip7gs-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/pyswagger/
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=10012&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pyswagger-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/tmp9pcip7gs-feedstock?branchName=main">
       </a>
     </td>
   </tr>
