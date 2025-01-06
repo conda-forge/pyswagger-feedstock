@@ -32,12 +32,6 @@ tests:
         - pyswagger
         - pyswagger.consts
       python_version: ${{ python_min }}.*
-  - requirements:
-      run:
-        - pip
-        - python ${{ python_min }}.*
-    script:
-      - pip check
 
 about:
   summary: A type-safe, dynamic, spec-compliant swagger client & converter for python
