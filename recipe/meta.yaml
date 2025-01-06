@@ -19,6 +19,7 @@ requirements:
   host:
     - pip
     - python {{ python_min }}
+    - setuptools
   run:
     - pyaml >=15.03.1
     - python >={{ python_min }}
